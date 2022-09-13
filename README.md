@@ -1,6 +1,7 @@
+# installation
+linux *git clone https://github.com/williamaerus/youtube-downloader-python*
 
-
-
+windows *unzip the file and run from terminal*
 # youtube-downloader-python
 a simple python script to download content from youtube
 
