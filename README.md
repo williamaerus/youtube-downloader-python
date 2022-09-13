@@ -5,10 +5,10 @@
 a simple python script to download content from youtube
 
 
-# instructions
+# configuration 
+install all the needed repositories written in the requirements.md file
 
-you just need to change the final directory in the code 
-the syntax to launch the command is simple 
+then at line 14 in the code change *yd.download('./')* with *yd.download('final directory')* if you don't change it's gonna save the video in the same directory as the file
 
 # linux terminal
 
